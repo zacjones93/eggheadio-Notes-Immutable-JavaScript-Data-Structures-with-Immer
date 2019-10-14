@@ -64,3 +64,5 @@ we can use `memo` to fix this.
     ))
 
 3:35 I hope that clarifies one of the benefits of immutability combined with structural sharing. It guarantees us that we can just do a simple reference equality check when rendering components to see if it's needed or not.
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/01-problem-and-solution-for-immutable-updates.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/03-simplify-immer-producer-functions-using-currying.md)

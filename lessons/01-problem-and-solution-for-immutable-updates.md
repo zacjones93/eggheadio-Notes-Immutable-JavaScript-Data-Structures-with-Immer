@@ -150,3 +150,5 @@ It's much nicer to write code that is mutable that way you are working with the 
 [02:04](https://egghead.io/lessons/javascript-simplify-deep-state-updates-using-immer-produce#t=124) The easiest way to think about Immer, is to **see it as your personal secretary. You give it a letter, and it brings you back a copy of the letter. You start scribbling on top of that copy. You are making notes and you're scratching things out and you're making it ugly all over the place.**
 
 [02:23](https://egghead.io/lessons/javascript-simplify-deep-state-updates-using-immer-produce#t=143) It is fine because, what happens is that you give that copy on which you wrote, you give it back to your secretary. Your secretary will check, "You are using these sentences. You are cracking that, and you are scratching this." **Based on what you did with that draft, it will produce for you your nicely next immutable state.**
+
+[next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/02-render-and-optimize-immutable-data-in-react.md)

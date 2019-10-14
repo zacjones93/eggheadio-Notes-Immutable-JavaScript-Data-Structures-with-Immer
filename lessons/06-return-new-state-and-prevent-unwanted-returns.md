@@ -34,3 +34,5 @@ if you have a function like `Array.push` that you want to use a 1-liner, it will
                 reservedBy: undefined
               })
           )
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/05-immutable-update-state-inside-react-components-with-useimmer.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/07-write-asynchronous-producers-in-immer-and-why-you-shouldn-t.md)

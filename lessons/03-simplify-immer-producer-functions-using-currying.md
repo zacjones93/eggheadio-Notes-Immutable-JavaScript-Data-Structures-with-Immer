@@ -66,3 +66,5 @@ so a real implementation would look like:
     })
 
 you can access original state with `original` from immer
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/02-render-and-optimize-immutable-data-in-react.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/04-produces-immutable-data-and-avoid-unnecessary-creation-of-new-data-trees-with-immer.md)

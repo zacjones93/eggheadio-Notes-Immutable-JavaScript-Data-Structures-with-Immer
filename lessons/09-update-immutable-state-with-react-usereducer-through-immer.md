@@ -56,3 +56,5 @@ Your react code will dispatch actions like you normally do when working with pro
             image: `https://picsum.photos/id/${Math.round(Math.random() * 1000)}/200/200`
           })
       }
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/08-immer-with-typescript.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/10-set-up-immer-patches.md)

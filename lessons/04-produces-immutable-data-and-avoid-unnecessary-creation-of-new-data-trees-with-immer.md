@@ -17,3 +17,5 @@ if you weren't using immer, you could:
     nextState.gifts[1].reservedBy = undefined
 
 but immer doesn't let you.
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/03-simplify-immer-producer-functions-using-currying.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/05-immutable-update-state-inside-react-components-with-useimmer.md)

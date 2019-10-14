@@ -74,3 +74,5 @@ which allows us to implement redo which is essentially the inverse of undo
         const patches = undoStack.current[undoStackPointer.current].patches
         dispatch({ type: "APPLY_PATCHES", patches }, false)
       }
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/10-set-up-immer-patches.md)

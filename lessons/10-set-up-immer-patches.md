@@ -113,3 +113,5 @@ The idea of this approach is that at a certain form, we **reapply all the patche
       console.log(JSON.stringify(patches, null, 2))
       return patches
     }
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/09-update-immutable-state-with-react-usereducer-through-immer.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/11-build-features-with-immer-patches.md)

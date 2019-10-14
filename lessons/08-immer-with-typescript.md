@@ -27,3 +27,5 @@ e.g.
         reservedBy: undefined
       })
     })
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/07-write-asynchronous-producers-in-immer-and-why-you-shouldn-t.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/09-update-immutable-state-with-react-usereducer-through-immer.md)

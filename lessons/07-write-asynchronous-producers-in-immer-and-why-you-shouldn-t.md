@@ -72,3 +72,5 @@ async producers might have multiple promises kicked off.. which state do you res
           setState(state => addBook(state, details))
         }
       }
+
+[<- prev](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/06-return-new-state-and-prevent-unwanted-returns.md) [next ->](https://github.com/zacjones93/Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer/blob/master/lessons/08-immer-with-typescript.md)
