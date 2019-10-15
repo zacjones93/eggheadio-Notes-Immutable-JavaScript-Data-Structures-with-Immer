@@ -1,6 +1,6 @@
-# Community-Notes-Immutable-JavaScript-Data-Structures-with-Immer
+<h1 align="center"><a href="https://egghead.io/courses/immutable-javascript-data-structures-with-immer">egghead.io react native starter</a></h1>
 
-![egghead immer workshop workshop badge](https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/312/full/ImmuateableImmer_Final.png)
+<p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/242/full/EGH_ReactTakeoutbox_.png" width="200"></p>
 
 These notes are intended to be used and studied in tandem with Michel Weststrate's [Immutable JavaScript Data Structures with Immer](https://egghead.io/courses/immutable-javascript-data-structures-with-immer) self-paced workshop.
 
@@ -10,7 +10,7 @@ Right below is the intended outcomes of the course, these are the skills and kno
 
 ## Essential Questions
 
-    How do immutable data help develop applications?
+    How does immutable data help develop applications?
 
 ## Outcomes:
 
