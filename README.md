@@ -1,6 +1,6 @@
-<h1 align="center"><a href="https://egghead.io/courses/immutable-javascript-data-structures-with-immer">egghead.io react native starter</a></h1>
+<h1 align="center"><a href="https://egghead.io/courses/immutable-javascript-data-structures-with-immer">Immutable JavaScript Data Structures with Immer</a></h1>
 
-<p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/242/full/EGH_ReactTakeoutbox_.png" width="200"></p>
+<p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/312/full/ImmuateableImmer_Final.png" width="200"></p>
 
 These notes are intended to be used and studied in tandem with Michel Weststrate's [Immutable JavaScript Data Structures with Immer](https://egghead.io/courses/immutable-javascript-data-structures-with-immer) self-paced workshop.
 
